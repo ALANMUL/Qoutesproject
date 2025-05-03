@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+venv_QoutesScrape/
+
+# Environment
+.env
+
+# Scrapy
+.scrapy/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# PyCharm
+.idea/
